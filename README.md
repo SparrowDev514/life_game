@@ -29,9 +29,9 @@ playは全ファセットに関して一回計算する。
 ## 初期値依存性
 
 最初にファセットの色をランダムに振り分けてから1000ステップ計算(playを10回実行)した。
-
-![ランダムな状態からスタート](/Users/owner/github/life_game_surface/init_random.png)
+![init_random](https://user-images.githubusercontent.com/34154049/53470290-801de080-3aa4-11e9-96e0-20c6dc6cb0fe.png)
 
 全て緑にしてから同様に計算した。
-
 ![すべて緑の状態からスタート](https://user-images.githubusercontent.com/34154049/53470226-51a00580-3aa4-11e9-9bd0-cfc75c901dbc.png)
+
+ランダムな状態からスタートした方が周期が短い(きがする)
