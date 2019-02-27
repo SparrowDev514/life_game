@@ -30,7 +30,7 @@ playは全ファセットに関して一回計算する。
 
 最初にファセットの色をランダムに振り分けてから1000ステップ計算(playを10回実行)した。
 
-![ランダムな状態からスタート](https://imgur.com/a/yGUSYQ1)
+![ランダムな状態からスタート](/Users/owner/github/life_game_surface/init_random.png)
 
 全て緑にしてから同様に計算した。
 
