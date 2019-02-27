@@ -32,6 +32,7 @@ playは全ファセットに関して一回計算する。
 ![init_random](https://user-images.githubusercontent.com/34154049/53470290-801de080-3aa4-11e9-96e0-20c6dc6cb0fe.png)
 
 
+
 全て緑にしてから同様に計算した。
 ![すべて緑の状態からスタート](https://user-images.githubusercontent.com/34154049/53470226-51a00580-3aa4-11e9-9bd0-cfc75c901dbc.png)
 
